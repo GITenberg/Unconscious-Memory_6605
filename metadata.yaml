@@ -1,0 +1,30 @@
+_repo: Unconscious-Memory_6605
+creator:
+  author:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+description: The only thing of which I am sure is, that the distinction between the
+  organic and inorganic is arbitrary." So writes Samuel Butler is his work of biological
+  philosophy, Unconscious memory, where he presents his theories of the mind through
+  the lens of his criticism of established scientific ideas.
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution'
+- !lcsh 'Subconsciousness'
+- !lcc 'QH'
+- !lcsh 'Memory'
+title: Unconscious Memory
+url: http://www.gutenberg.org/ebooks/6605
